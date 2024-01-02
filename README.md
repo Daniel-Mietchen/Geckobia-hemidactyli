@@ -49,10 +49,10 @@ taxonomies:
       enabled: false
       name: Catalogue of Life
     - id: gbif
-      enabled: false
+      enabled: true
       name: GBIF Backbone Taxonomy
     - id: globi
-      enabled: false
+      enabled: true
       name: GloBI Taxon Graph
     - id: indexfungorum
       enabled: false
@@ -67,7 +67,7 @@ taxonomies:
       enabled: false
       name: Paleobiology Database
     - id: plazi
-      enabled: false
+      enabled: true
       name: Plazi Treatments
     - id: tpt
       enabled: false
